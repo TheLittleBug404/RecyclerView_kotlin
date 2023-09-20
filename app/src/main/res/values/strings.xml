@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActionBard</string>
+    <string name="recylerView">Recycler View</string>
+    <string name= "categorias">Categorias:</string>
+    <string name="tareas">Tareas</string>
+    <string name="addTasks">Añade la tarea</string>
+    <string name="negocio">Negocios</string>
+    <string name="personal">Personal</string>
+    <string name="otros">Otros</string>
+    <string name="creaTarea">Crear tarea</string>
+</resources>

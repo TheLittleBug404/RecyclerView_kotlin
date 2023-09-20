@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppRecyclerView" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">@color/background_todo_app</item>
+    </style>
+
+    <style name="Theme.AppRecyclerView" parent="Base.Theme.AppRecyclerView" />
+    <!-- nos creamos nuestro estilo para nuestra aplicacion android-->
+    <style name="Base.Theme.TodoApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+    
+    <style name="styleSubtitles">
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">@color/subtitle_text</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
